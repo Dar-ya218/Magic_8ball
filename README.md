@@ -21,3 +21,9 @@ Are you tired of making decisions? Does choosing what to wear in the morning fee
    python magic_8ball.py
    ```
    (If this doesn't work, try turning it off and on again - works 60% of the time!)
+
+4. Ask your burning questions!
+   - "Will I become a millionaire?" (Don't get your hopes up, I'm still waiting too)
+   - "Should I have pizza for dinner?" (The answer is always yes, why are you even asking?)
+   - "Will this code work on the first try?" (Oh...)
+   
