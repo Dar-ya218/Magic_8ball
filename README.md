@@ -43,3 +43,5 @@ This Magic 8-Ball comes with absolutely no warranty! Side effects may include:
 - Tendency to blame the ball for poor life choices
 - Developing a British accent while reading responses (we don't know why this happens)
    
+## 🌈 Final Words of Wisdom
+Remember: The future is like your code - full of unexpected behaviors, random outcomes, and occasional crashes! And just like your code comments, most of these predictions will make no sense in two weeks.
