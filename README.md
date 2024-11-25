@@ -26,4 +26,20 @@ Are you tired of making decisions? Does choosing what to wear in the morning fee
    - "Will I become a millionaire?" (Don't get your hopes up, I'm still waiting too)
    - "Should I have pizza for dinner?" (The answer is always yes, why are you even asking?)
    - "Will this code work on the first try?" (Oh...)
+  
+## 🎯 Pro Tips for Maximum Fortune
+- Ask yes/no questions
+- Don't ask about lottery numbers (it's terrible at math)
+- If you don't like the answer, just try again!
+- The more dramatic your question, the more dramatic the response (we love the drama)
+- For best results, wear a wizard hat and wave your hands mysteriously (not required but highly encouraged)
+
+## 🎪 Warranty Information
+This Magic 8-Ball comes with absolutely no warranty! Side effects may include:
+- Uncontrollable giggling at random predictions
+- Excessive eye-rolling
+- Sudden urges to make important life decisions based on random computer outputs
+- A strange desire to collect spherical objects
+- Tendency to blame the ball for poor life choices
+- Developing a British accent while reading responses (we don't know why this happens)
    
