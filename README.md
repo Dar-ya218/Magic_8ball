@@ -51,3 +51,8 @@ Remember: The future is like your code - full of unexpected behaviors, random ou
 "10/10 would ask again, even though it told me not to" - Another Happy User
 "Still more accurate than my weather app" - Local Meteorologist
 "Better than asking my rubber duck for advice" - Anonymous Developer
+
+---
+Made with 🎲 and questionable fortune-telling abilities
+
+P.S.: If you're still reading this, you clearly have too much free time. Go ask the ball about that! It might suggest a hobby... or another my programming project 
